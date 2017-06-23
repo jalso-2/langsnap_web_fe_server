@@ -1,0 +1,49 @@
+{
+  "FIND_ADD": "Find / Add",
+  "ADD_DECK": "Add Deck",
+  "ABOUT_US": "About Us",
+  "CREATE_A_DECK" : "Create A Deck",
+  "CREATE_DECK" : "Create Deck",
+  "EDIT_DECK" : "Edit Deck",
+  "ADD_CARD" : "Add Card",
+  "DELETE_CARD" : "Delete Card",
+  "WELCOME": "Welcome",
+  "FIND_ADD_A_DECK": "Find A Deck",
+  "MY_DECKS": "My Decks",
+  "LOG_OUT": "Log Out",
+  "LOG_IN": "Log In",
+  "DELETE_DECK" : "Delete Deck",
+  "QUIZ" : "Quiz",
+  "PROFILE" : "Profile",
+  "SUBMIT" : "Submit",
+  "EDIT_WORD": "Edit Word",
+  "CREATE_CARD": "Create Card",
+  "CARD_VIEWER" : "Card Viewer",
+  "SHARED_DECKS" : "Shared Decks",
+  "ADD_TITLE" : "Add A Title",
+  "DECK_TITLE" : "Deck Title",
+  "PHRASE" : "Phrase",
+  "FLIP" : "Flip",
+  "EMAIL_ADDRESS" : "Email Address",
+  "NATIVE_LANGUAGE" : "Native Language", 
+  "LEARNING_LANGUAGE" : "Learning Language",
+  "CANCEL": "Cancel",
+  "SEARCH": "Search",
+  "YOUR_WORD": "Your word",
+  "TRANSLATION": "Translation",
+  "NOT_RIGHT_WORD": "Not the right word? Try typing the correct word in below.",
+  "ENTER_YOUR_WORD": "Enter your word here",
+  "QUIZ_PROMPT" : "Which word describes the above image?",
+  "RESULTS" : "Results",
+  "HOME" : "Home",
+  "DONE" : "Done",
+  "QUESTION" : "Question"
+}
+
+
+
+
+
+
+
+
